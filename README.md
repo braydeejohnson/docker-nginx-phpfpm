@@ -28,4 +28,4 @@ services:
 
 In order for nginx to properly serve to phpfpm you must name the service `fpm`, regardless of php-fpm version.
 
-Feel free to submit a Pull Request or Issue at [my Github])(https://github.com/braydeejohnson/docker-nginx-phpfpm) if you would like to have this supported beyond its current capabilities.
+Feel free to submit a Pull Request or Issue at [my Github](https://github.com/braydeejohnson/docker-nginx-phpfpm) if you would like to have this supported beyond its current capabilities.
